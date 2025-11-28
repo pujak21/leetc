@@ -6,7 +6,7 @@ public class Binarysubarray {
 
     private int countSubarraysAtMost(int[] nums, int goal) {
 
-        if (goal < 0) return 0; // If goal becomes negative, no subarray can match
+        if (goal < 0) return 0; 
 
         int left = 0, sum = 0, count = 0;
 
@@ -14,20 +14,20 @@ public class Binarysubarray {
 
             sum += nums[right];
 
-            // shrink window if sum is more than allowed
+           
             while (sum > goal) {
                 sum -= nums[left];
                 left++;
             }
 
-            // count all valid subarrays ending at right pointer
+            
             count += (right - left + 1);
         }
 
         return count;
     }
 
-    // Main function to test the code
+   
     public static void main(String[] args) {
         Binarysubarray obj = new Binarysubarray();
 
