@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/pujak21/leetc/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pujak21/leetc/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [0860-lemonade-change](https://github.com/pujak21/leetc/tree/master/0860-lemonade-change) |
 ## Two Pointers
@@ -62,8 +63,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
