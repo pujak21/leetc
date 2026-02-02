@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/pujak21/leetc/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/pujak21/leetc/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pujak21/leetc/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/pujak21/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/pujak21/leetc/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pujak21/leetc/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pujak21/leetc/tree/master/0110-balanced-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pujak21/leetc/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
