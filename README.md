@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pujak21/leetc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pujak21/leetc/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/pujak21/leetc/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/pujak21/leetc/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/pujak21/leetc/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/pujak21/leetc/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pujak21/leetc/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 ## Memoization
