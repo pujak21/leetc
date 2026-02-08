@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pujak21/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/pujak21/leetc/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pujak21/leetc/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/pujak21/leetc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pujak21/leetc/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pujak21/leetc/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
