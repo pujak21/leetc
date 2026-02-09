@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/pujak21/leetc/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujak21/leetc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pujak21/leetc/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
+| [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 ## Memoization
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pujak21/leetc/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
