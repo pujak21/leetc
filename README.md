@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pujak21/leetc/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
+| [2235-add-two-integers](https://github.com/pujak21/leetc/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 ## Memoization
 |  |
