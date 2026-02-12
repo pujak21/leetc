@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pujak21/leetc/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pujak21/leetc/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/pujak21/leetc/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/pujak21/leetc/tree/master/0403-frog-jump) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pujak21/leetc/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pujak21/leetc/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pujak21/leetc/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujak21/leetc/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujak21/leetc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/pujak21/leetc/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/pujak21/leetc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pujak21/leetc/tree/master/0974-subarray-sums-divisible-by-k) |
