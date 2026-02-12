@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pujak21/leetc/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pujak21/leetc/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/pujak21/leetc/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/pujak21/leetc/tree/master/0416-partition-equal-subset-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pujak21/leetc/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujak21/leetc/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pujak21/leetc/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pujak21/leetc/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pujak21/leetc/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pujak21/leetc/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
