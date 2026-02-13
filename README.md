@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
+| [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pujak21/leetc/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pujak21/leetc/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
+| [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pujak21/leetc/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
