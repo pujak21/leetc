@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/pujak21/leetc/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/pujak21/leetc/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
+| [0799-champagne-tower](https://github.com/pujak21/leetc/tree/master/0799-champagne-tower) |
 ## Stack
 |  |
 | ------- |
