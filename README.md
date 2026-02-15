@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
 | [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pujak21/leetc/tree/master/3714-longest-balanced-substring-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pujak21/leetc/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/pujak21/leetc/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pujak21/leetc/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/pujak21/leetc/tree/master/0204-count-primes) |
 | [2235-add-two-integers](https://github.com/pujak21/leetc/tree/master/2235-add-two-integers) |
@@ -166,10 +168,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pujak21/leetc/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
