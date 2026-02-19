@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pujak21/leetc/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/pujak21/leetc/tree/master/0696-count-binary-substrings) |
 | [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/pujak21/leetc/tree/master/0696-count-binary-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pujak21/leetc/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
