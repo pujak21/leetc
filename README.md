@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pujak21/leetc/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pujak21/leetc/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
+| [0761-special-binary-string](https://github.com/pujak21/leetc/tree/master/0761-special-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pujak21/leetc/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/pujak21/leetc/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/pujak21/leetc/tree/master/0761-special-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pujak21/leetc/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/pujak21/leetc/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/pujak21/leetc/tree/master/0761-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
