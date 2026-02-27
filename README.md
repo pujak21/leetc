@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/pujak21/leetc/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pujak21/leetc/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pujak21/leetc/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/pujak21/leetc/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pujak21/leetc/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pujak21/leetc/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2235-add-two-integers](https://github.com/pujak21/leetc/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -220,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pujak21/leetc/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
