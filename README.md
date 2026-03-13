@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pujak21/leetc/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/pujak21/leetc/tree/master/1980-find-unique-binary-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pujak21/leetc/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pujak21/leetc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pujak21/leetc/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/pujak21/leetc/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pujak21/leetc/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pujak21/leetc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pujak21/leetc/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/pujak21/leetc/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pujak21/leetc/tree/master/0349-intersection-of-two-arrays) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pujak21/leetc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/pujak21/leetc/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2235-add-two-integers](https://github.com/pujak21/leetc/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/pujak21/leetc/tree/master/2396-strictly-palindromic-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pujak21/leetc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/pujak21/leetc/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Memoization
 |  |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/pujak21/leetc/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pujak21/leetc/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
